@@ -158,7 +158,7 @@ if ($current_log_id !== 'new') {
         <div class="supervisor-section">
             <div class="signature-line">Supervisors Name:_________________________________</div>
             <div class="stamp-area">Official Stamp</div>
-            <div class="signature-line">Signature:________________________________________</div>
+            <div class="signature-line">Signature:______________________________</div>
         
         </div>
 
@@ -474,20 +474,6 @@ if ($current_log_id !== 'new') {
     }
 }
 
-       
-        .action-buttons { 
-            display: none !important; 
-        } 
-        
-       
-        .activity-table textarea,
-        .activity-table input[type="date"] { 
-            border: none; 
-            background: none; 
-            -webkit-print-color-adjust: exact;
-            print-color-adjust: exact;
-        }
-    }
 </style>
 
 
